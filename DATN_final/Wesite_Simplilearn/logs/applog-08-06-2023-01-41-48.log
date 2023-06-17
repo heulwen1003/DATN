@@ -1,0 +1,5 @@
+[INFO] 08-06-2023 01:41:48 [main] LogHelpers - Start testing Default test
+[INFO] 08-06-2023 01:41:48 [main] LogHelpers - TestSuite_Register test is starting...
+[INFO] 08-06-2023 01:42:10 [main] LogHelpers - R-02 Testcase pass
+[INFO] 08-06-2023 01:43:00 [main] LogHelpers - R-07 Testcase pass
+[ERROR] 08-06-2023 01:43:50 [main] LogHelpers - R-10 Testcase fail

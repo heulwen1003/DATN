@@ -1,0 +1,5 @@
+[INFO] 13-06-2023 10:48:27 [main] LogHelpers - Start testing Default test
+[INFO] 13-06-2023 10:48:27 [main] LogHelpers - Apply_Course test is starting...
+[ERROR] 13-06-2023 10:49:20 [main] LogHelpers - TC_Enroll_04 Testcase fail
+[INFO] 13-06-2023 10:49:24 [main] LogHelpers - Apply_Course test is passed.
+[INFO] 13-06-2023 10:49:24 [main] LogHelpers - End testing Default test

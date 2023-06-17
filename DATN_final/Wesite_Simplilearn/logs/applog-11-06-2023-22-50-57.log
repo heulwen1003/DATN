@@ -1,0 +1,5 @@
+[INFO] 11-06-2023 22:50:58 [main] LogHelpers - Start testing Default test
+[INFO] 11-06-2023 22:50:58 [main] LogHelpers - Search test is starting...
+[ERROR] 11-06-2023 22:51:12 [main] LogHelpers - search_01 Testcase fail
+[INFO] 11-06-2023 22:51:16 [main] LogHelpers - Search test is passed.
+[INFO] 11-06-2023 22:51:16 [main] LogHelpers - End testing Default test

@@ -1,0 +1,4 @@
+[INFO] 12-06-2023 16:45:05 [main] LogHelpers - Start testing Default test
+[INFO] 12-06-2023 16:45:06 [main] LogHelpers - Apply_Course test is starting...
+[ERROR] 12-06-2023 16:45:10 [main] LogHelpers - Apply_Course test is failed.
+[INFO] 12-06-2023 16:45:10 [main] LogHelpers - End testing Default test

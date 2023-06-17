@@ -1,0 +1,27 @@
+[INFO] 08-06-2023 01:25:58 [main] LogHelpers - Start testing Default test
+[INFO] 08-06-2023 01:25:58 [main] LogHelpers - TestSuite_Register test is starting...
+[INFO] 08-06-2023 01:26:21 [main] LogHelpers - R-02 Testcase pass
+[ERROR] 08-06-2023 01:26:41 [main] LogHelpers - R-03 Testcase fail
+[INFO] 08-06-2023 01:27:05 [main] LogHelpers - R-07 Testcase pass
+[ERROR] 08-06-2023 01:27:28 [main] LogHelpers - R-08 Testcase fail
+[ERROR] 08-06-2023 01:27:51 [main] LogHelpers - R-10 Testcase fail
+[INFO] 08-06-2023 01:28:16 [main] LogHelpers - R-11 Testcase pass
+[INFO] 08-06-2023 01:28:37 [main] LogHelpers - R-12 Testcase pass
+[INFO] 08-06-2023 01:28:57 [main] LogHelpers - R-13 Testcase pass
+[INFO] 08-06-2023 01:29:16 [main] LogHelpers - R-14 Testcase pass
+[INFO] 08-06-2023 01:29:37 [main] LogHelpers - R-15 Testcase pass
+[INFO] 08-06-2023 01:29:57 [main] LogHelpers - R-16 Testcase pass
+[INFO] 08-06-2023 01:30:17 [main] LogHelpers - R-17 Testcase pass
+[INFO] 08-06-2023 01:30:38 [main] LogHelpers - R-18 Testcase pass
+[INFO] 08-06-2023 01:30:58 [main] LogHelpers - R-19 Testcase pass
+[INFO] 08-06-2023 01:31:17 [main] LogHelpers - R-20 Testcase pass
+[INFO] 08-06-2023 01:31:37 [main] LogHelpers - R-21 Testcase pass
+[INFO] 08-06-2023 01:31:57 [main] LogHelpers - R-24 Testcase pass
+[INFO] 08-06-2023 01:32:19 [main] LogHelpers - R-30 Testcase pass
+[INFO] 08-06-2023 01:32:37 [main] LogHelpers - R-31 Testcase pass
+[INFO] 08-06-2023 01:32:58 [main] LogHelpers - R-36 Testcase pass
+[INFO] 08-06-2023 01:33:17 [main] LogHelpers - R-37 Testcase pass
+[INFO] 08-06-2023 01:34:07 [main] LogHelpers - R-39 Testcase pass
+[INFO] 08-06-2023 01:34:27 [main] LogHelpers - R-40 Testcase pass
+[INFO] 08-06-2023 01:34:28 [main] LogHelpers - TestSuite_Register test is passed.
+[INFO] 08-06-2023 01:34:28 [main] LogHelpers - End testing Default test
